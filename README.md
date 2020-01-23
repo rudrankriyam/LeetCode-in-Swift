@@ -27,6 +27,25 @@ Inspired by the repository by Yi Gu! [https://github.com/soapyigu/LeetCode-Swift
 | [0028 - Implement strStr()](https://leetcode.com/problems/implement-strstr)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0028%20-%20Implement%20strStr().swift)| - |
 | [0035 - Search Insert Position](https://leetcode.com/problems/search-insert-position)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0035%20-%20Search%20Insert%20Position.swift)| - |
 | [0038 - Count and Say](https://leetcode.com/problems/count-and-say)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0038%20-%20Count%20and%20Say.swift)| - |
+| [0053 - Maximum Subarray](https://leetcode.com/problems/maximum-subarray)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0053%20-%20Maximum%20Subarray.swift)| - |
+| [0058 - Length of Last Word](https://leetcode.com/problems/length-of-last-word)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0058%20-%20Length%20of%20Last%20Word.swift)| - |
+| [0067 - Add Binary](https://leetcode.com/problems/add-binary)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0067%20-%20Add%20Binary.swift)| - |
+| [0069 - Sqrt(x)](https://leetcode.com/problems/sqrtx)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0069%20-%20Sqrt(x).swift)| - |
+| [0070 - Climbing Stairs](https://leetcode.com/problems/climbing-stairs)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0070%20-%20Climbing%20Stairs.swift)| - |
+| [0088 - Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0088%20-%20Merge%20Sorted%20Array.swift)| - |
+| [0100 - Same Tree](https://leetcode.com/problems/same-tree)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0100%20-%20Same%20Tree.swift)| - |
+| [0101 - Symmetric Tree](https://leetcode.com/problems/symmetric-tree)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0101%20-%20Symmetric%20Tree.swift)| - |
+| [0104 - Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0104%20-%20Maximum%20Depth%20of%20Binary%20Tree.swift)| - |
+| [0108 - Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0108%20-%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.swift)| - |
+| [0112 - Path Sum](https://leetcode.com/problems/path-sumhttps://leetcode.com/problems/pascals-triangle)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0112%20-%20Path%20Sum.swift)| - |
+| [0118 - Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0118%20-%20Pascal's%20Triangle.swift)| - |
+| [0119 - Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0119%20-%20Pascal's%20Triangle%20II.swift)| - |
+| [0121 - Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0121%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.swift)| - |
+| [0122 - Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0122%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.swift)| - |
+| [0125 - Valid Palindrome](https://leetcode.com/problems/valid-palindrome)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0125%20-%20Valid%20Palindrome.swift)| - |
+| [0136 - Single Number](https://leetcode.com/problems/single-number)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0136%20-%20Single%20Number.swift)| - |
+| [0155 - Min Stack](https://leetcode.com/problems/min-stack)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0155%20-%20Min%20Stack.swift)| - |
+| [0167 - Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0167%20-%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.swift)| - |
 
 ## MEDIUM
 
