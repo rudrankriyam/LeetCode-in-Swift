@@ -46,6 +46,23 @@ Inspired by the repository by Yi Gu! [https://github.com/soapyigu/LeetCode-Swift
 | [0136 - Single Number](https://leetcode.com/problems/single-number)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0136%20-%20Single%20Number.swift)| - |
 | [0155 - Min Stack](https://leetcode.com/problems/min-stack)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0155%20-%20Min%20Stack.swift)| - |
 | [0167 - Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0167%20-%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.swift)| - |
+| [0169 - Majority Element](https://leetcode.com/problems/majority-element)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0169%20-%20Majority%20Element.swift)| - |
+| [0189 - Rotate Array](https://leetcode.com/problems/rotate-array)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0189%20-%20Rotate%20Array.swift)| - |
+| [0198 - House Robber](https://leetcode.com/problems/house-robber)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0198%20-%20House%20Robber.swift)| - |
+| [0202 - Happy Number](https://leetcode.com/problems/happy-number)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0202%20-%20Happy%20Number.swift)| - |
+| [0203 - Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0203%20-%20Remove%20Linked%20List%20Elements.swift)| - |
+| [0204 - Count Primes](https://leetcode.com/problems/count-primes)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0204%20-%20Count%20Primes.swift)| - |
+| [0206 - Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0206%20-%20Reverse%20Linked%20List.swift)| - |
+| [0225- Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0225-%20Implement%20Stack%20using%20Queues.swift)| - |
+| [0232- Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0232-%20Implement%20Queue%20using%20Stacks.swift)| - |
+| [0234- Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0234-%20Palindrome%20Linked%20List.swift)| - |
+| [0242 - Valid Anagram](https://leetcode.com/problems/valid-anagram)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0242%20-%20Valid%20Anagram.swift)| - |
+| [0257 - Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0257%20-%20Binary%20Tree%20Paths.swift)| - |
+| [0258 - Add Digits](https://leetcode.com/problems/add-digits)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0258%20-%20Add%20Digits.swift)| - |
+| [0263 - Ugly Number](https://leetcode.com/problems/ugly-number)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0263%20-%20Ugly%20Number.swift)| - |
+| [0268 - Missing Number](https://leetcode.com/problems/missing-number)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0268%20-%20Missing%20Number.swift)| - |
+| [0283 - Move Zeroes](https://leetcode.com/problems/move-zeroes)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0283%20-%20Move%20Zeroes.swift)| - |
+| [0290 - Word Pattern](https://leetcode.com/problems/word-pattern)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0290%20-%20Word%20Pattern.swift)| - |
 
 ## MEDIUM
 
