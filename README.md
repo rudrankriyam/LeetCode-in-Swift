@@ -63,6 +63,33 @@ Inspired by the repository by Yi Gu! [https://github.com/soapyigu/LeetCode-Swift
 | [0268 - Missing Number](https://leetcode.com/problems/missing-number)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0268%20-%20Missing%20Number.swift)| - |
 | [0283 - Move Zeroes](https://leetcode.com/problems/move-zeroes)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0283%20-%20Move%20Zeroes.swift)| - |
 | [0290 - Word Pattern](https://leetcode.com/problems/word-pattern)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0290%20-%20Word%20Pattern.swift)| - |
+| [0326 - Power of Three](https://leetcode.com/problems/power-of-three)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0326%20-%20Power%20of%20Three.swift)| - |
+| [0344 - Reverse String](https://leetcode.com/problems/reverse-string)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0344%20-%20Reverse%20String.swift)| - |
+| [0345 - Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0345%20-%20Reverse%20Vowels%20of%20a%20String.swift)| - |
+| [0349 - Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0349%20-%20Intersection%20of%20Two%20Arrays.swift)| - |
+| [0350 - Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0350%20-%20Intersection%20of%20Two%20Arrays%20II.swift)| - |
+| [0371 - Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0371%20-%20Sum%20of%20Two%20Integers.swift)| - |
+| [0383 - Ransom Note](https://leetcode.com/problems/ransom-note)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0383%20-%20Ransom%20Note.swift)| - |
+| [0387 - First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0387%20-%20First%20Unique%20Character%20in%20a%20String.swift)| - |
+| [0401 - Binary Watch](https://leetcode.com/problems/binary-watch)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0401%20-%20Binary%20Watch.swift)| - |
+| [0412 - Fizz Buzz](https://leetcode.com/problems/fizz-buzz)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0412%20-%20Fizz%20Buzz.swift)| - |
+| [0414 - Third Maximum Number](https://leetcode.com/problems/third-maximum-number)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0414%20-%20Third%20Maximum%20Number.swift)| - |
+| [0443 - String Compression](https://leetcode.com/problems/string-compression)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0443%20-%20String%20Compression.swift)| - |
+| [0448 - Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0448%20-%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.swift)| - |
+| [0461 - Hamming Distance](https://leetcode.com/problems/hamming-distance)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0461%20-%20Hamming%20Distance.swift)| - |
+| [0463 - Island Perimeter](https://leetcode.com/problems/island-perimeter)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0463%20-%20Island%20Perimeter.swift)| - |
+| [0496 - Next Greater Element I](https://leetcode.com/problems/next-greater-element-i)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0496%20-%20Next%20Greater%20Element%20I.swift)| - |
+| [0509 - Fibonacci Number](https://leetcode.com/problems/fibonacci-number)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0509%20-%20Fibonacci%20Number.swift)| - |
+| [0530 - Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0530%20-%20Minimum%20Absolute%20Difference%20in%20BST.swift)| - |
+| [0543 - Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0543%20-%20Diameter%20of%20Binary%20Tree.swift)| - |
+| [0557 - Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0557%20-%20Reverse%20Words%20in%20a%20String%20III.swift)| - |
+| [0561 - Array Partition I](https://leetcode.com/problems/array-partition-i)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0561%20-%20Array%20Partition%20I.swift)| - |
+| [0605 - Can Place Flowers](https://leetcode.com/problems/can-place-flowers)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0605%20-%20Can%20Place%20Flowers.swift)| - |
+| [0653 - Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0653%20-%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST.swift)| - |
+| [0661 - Image Smoother](https://leetcode.com/problems/image-smoother)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0661%20-%20Image%20Smoother.swift)| - |
+| [0665 - Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0665%20-%20Non-decreasing%20Array.swift)| - |
+| [0674 - Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0674%20-%20Longest%20Continuous%20Increasing%20Subsequence.swift)| - |
+| [0682 - Baseball Game](https://leetcode.com/problems/baseball-game)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0682%20-%20Baseball%20Game.swift)| - |
 
 ## MEDIUM
 
