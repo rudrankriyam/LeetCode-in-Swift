@@ -13,6 +13,6 @@ Inspired by the repository by Yi Gu! [https://github.com/soapyigu/LeetCode-Swift
 
 # List of Questions (Current Count: 224)
 
-[EASY QUESTIONS (Current Count: 113)](https://github.com/rudrankriyam/LeetCode-in-Swift/tree/master/EASY/EASY.md)
-[MEDIUM QUESTIONS (Current Count: 106)](https://github.com/rudrankriyam/LeetCode-in-Swift/tree/master/MEDIUM/MEDIUM.md)
-[HARD QUESTIONS (Current Count: 005)](https://github.com/rudrankriyam/LeetCode-in-Swift/tree/master/HARD/HARD.md)
+* [EASY QUESTIONS (Current Count: 113)](https://github.com/rudrankriyam/LeetCode-in-Swift/tree/master/EASY/README.md)
+* [MEDIUM QUESTIONS (Current Count: 106)](https://github.com/rudrankriyam/LeetCode-in-Swift/tree/master/MEDIUM/README.md)
+* [HARD QUESTIONS (Current Count: 005)](https://github.com/rudrankriyam/LeetCode-in-Swift/tree/master/HARD/README.md)
