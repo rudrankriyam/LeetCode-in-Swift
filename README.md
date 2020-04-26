@@ -18,6 +18,8 @@ Inspired by the repository by Yi Gu! [https://github.com/soapyigu/LeetCode-Swift
 * [HARD QUESTIONS (Current Count: 005)](https://github.com/rudrankriyam/LeetCode-in-Swift/tree/master/HARD/README.md)
 
 
+# This part is work in progress.
+
 # iOS Interview Preparation
 Curating all the resources I refer to for interview preparation. This is not an exhaustive list and you are free to add your suggestion to it. Thank you!
 
@@ -46,6 +48,10 @@ Note: I have only interviewed with a single company as of now. I researched a lo
 - Tries
 - Graphs
 
+## YouTube Channels for LeetCode Solutions and Explanations
+
+- [Nick White](https://www.youtube.com/channel/UC1fLEeYICmo3O9cUsqIi7HA/featured)
+- [Kevin Naughton Jr.](https://www.youtube.com/channel/UCKvwPt6BifPP54yzH99ff1g)
 
 ## Free Resources  [Non-Affliation]
 
