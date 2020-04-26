@@ -11,6 +11,30 @@
  */
 class Solution {
     func isPalindrome(_ head: ListNode?) -> Bool {
+        var currentNode = head
+        var values = [Int]()
+        
+        while currentNode != nil {
+            values.append(currentNode?.val ?? 0)
+            currentNode = currentNode?.next 
+        }
+        
+        var front = 0
+        var back = values.count - 1
+        
+        while front < back {
+            if values[front] != values[back] {
+                return false
+            }
+            front += 1
+            back -= 1
+        }
+        return true
+    }
+    
+    //The function below is the optimised version of the code above
+    //O(1)- Space and O(n)- Time
+   func isPalindromeOptimised(_ head: ListNode?) -> Bool {
         
         var prevNode = head 
         var nextNode = head 
@@ -31,10 +55,9 @@ class Solution {
             rightHalf = rightHalf?.next
         }
         return true
-        
-    }
 }
 
+ //Extension for the optimised solution. Aids in the reversal of the list.
 extension ListNode {
     public func reverse() -> ListNode? {
         if self == nil {
