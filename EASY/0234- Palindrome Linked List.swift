@@ -11,24 +11,48 @@
  */
 class Solution {
     func isPalindrome(_ head: ListNode?) -> Bool {
-        var currentNode = head
-        var values = [Int]()
         
-        while currentNode != nil {
-            values.append(currentNode?.val ?? 0)
-            currentNode = currentNode?.next 
+        var prevNode = head 
+        var nextNode = head 
+        
+        while (nextNode?.next != nil) {
+            nextNode = nextNode?.next?.next
+            prevNode = prevNode?.next
         }
         
-        var front = 0
-        var back = values.count - 1
+        var rightHalf = prevNode?.reverse()
+        var leftHalf = head 
         
-        while front < back {
-            if values[front] != values[back] {
+        while rightHalf != nil {
+            if leftHalf?.val != rightHalf?.val {
                 return false
             }
-            front += 1
-            back -= 1
+            leftHalf = leftHalf?.next
+            rightHalf = rightHalf?.next
         }
         return true
+        
+    }
+}
+
+extension ListNode {
+    public func reverse() -> ListNode? {
+        if self == nil {
+            //Checking if the head is empty
+            //ie the list is empty
+            return nil
+        }
+        
+        var prev: ListNode? = nil
+        var currentNode: ListNode? = self 
+        
+        while(currentNode != nil) {
+            let nextNode = currentNode?.next
+            currentNode?.next = prev 
+            prev = currentNode
+            currentNode = nextNode
+        }
+        
+        return prev
     }
 }
