@@ -16,7 +16,7 @@ class Solution {
         
         while currentNode != nil {
             values.append(currentNode?.val ?? 0)
-            currentNode = currentNode?.next 
+            currentNode = currentNode?.next
         }
         
         var front = 0
@@ -32,20 +32,21 @@ class Solution {
         return true
     }
     
-    //The function below is the optimised version of the code above
+    
+    //The function below is the optimized version of the code above
     //O(1)- Space and O(n)- Time
-   func isPalindromeOptimised(_ head: ListNode?) -> Bool {
+    func isPalindromeOptimized(_ head: ListNode?) -> Bool {
         
-        var prevNode = head 
-        var nextNode = head 
+        var previousNode = head
+        var nextNode = head
         
         while (nextNode?.next != nil) {
             nextNode = nextNode?.next?.next
-            prevNode = prevNode?.next
+            previousNode = previousNode?.next
         }
         
-        var rightHalf = prevNode?.reverse()
-        var leftHalf = head 
+        var rightHalf = reverse(previousNode)
+        var leftHalf = head
         
         while rightHalf != nil {
             if leftHalf?.val != rightHalf?.val {
@@ -55,27 +56,21 @@ class Solution {
             rightHalf = rightHalf?.next
         }
         return true
-}
-
- //Extension for the optimised solution. Aids in the reversal of the list.
-extension ListNode {
-    public func reverse() -> ListNode? {
-        if self == nil {
-            //Checking if the head is empty
-            //ie the list is empty
-            return nil
-        }
+    }
+    public func reverse(_ listNode: ListNode?) -> ListNode? {
         
-        var prev: ListNode? = nil
-        var currentNode: ListNode? = self 
+        guard let listNode = listNode else { return nil }
+        
+        var previousNode: ListNode? = nil
+        var currentNode: ListNode? = listNode
         
         while(currentNode != nil) {
             let nextNode = currentNode?.next
-            currentNode?.next = prev 
-            prev = currentNode
+            currentNode?.next = previousNode
+            previousNode = currentNode
             currentNode = nextNode
         }
         
-        return prev
+        return previousNode
     }
 }
