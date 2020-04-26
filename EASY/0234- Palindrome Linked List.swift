@@ -32,11 +32,9 @@ class Solution {
         return true
     }
     
-    
     //The function below is the optimized version of the code above
     //O(1)- Space and O(n)- Time
     func isPalindromeOptimized(_ head: ListNode?) -> Bool {
-        
         var previousNode = head
         var nextNode = head
         
@@ -57,20 +55,19 @@ class Solution {
         }
         return true
     }
-    public func reverse(_ listNode: ListNode?) -> ListNode? {
-        
+    
+    private func reverse(_ listNode: ListNode?) -> ListNode? {
         guard let listNode = listNode else { return nil }
         
         var previousNode: ListNode? = nil
         var currentNode: ListNode? = listNode
         
-        while(currentNode != nil) {
+        while (currentNode != nil) {
             let nextNode = currentNode?.next
             currentNode?.next = previousNode
             previousNode = currentNode
             currentNode = nextNode
         }
-        
         return previousNode
     }
 }
