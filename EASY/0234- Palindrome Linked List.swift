@@ -16,7 +16,7 @@ class Solution {
         
         while currentNode != nil {
             values.append(currentNode?.val ?? 0)
-            currentNode = currentNode?.next 
+            currentNode = currentNode?.next
         }
         
         var front = 0
@@ -30,5 +30,44 @@ class Solution {
             back -= 1
         }
         return true
+    }
+    
+    //The function below is the optimized version of the code above
+    //O(1)- Space and O(n)- Time
+    func isPalindromeOptimized(_ head: ListNode?) -> Bool {
+        var previousNode = head
+        var nextNode = head
+        
+        while (nextNode?.next != nil) {
+            nextNode = nextNode?.next?.next
+            previousNode = previousNode?.next
+        }
+        
+        var rightHalf = reverse(previousNode)
+        var leftHalf = head
+        
+        while rightHalf != nil {
+            if leftHalf?.val != rightHalf?.val {
+                return false
+            }
+            leftHalf = leftHalf?.next
+            rightHalf = rightHalf?.next
+        }
+        return true
+    }
+    
+    private func reverse(_ listNode: ListNode?) -> ListNode? {
+        guard let listNode = listNode else { return nil }
+        
+        var previousNode: ListNode? = nil
+        var currentNode: ListNode? = listNode
+        
+        while (currentNode != nil) {
+            let nextNode = currentNode?.next
+            currentNode?.next = previousNode
+            previousNode = currentNode
+            currentNode = nextNode
+        }
+        return previousNode
     }
 }
