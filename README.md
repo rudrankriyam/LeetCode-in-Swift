@@ -27,8 +27,12 @@ Note: I have only interviewed with a single company as of now. I researched a lo
 
 # Behavioral Questions
 
-## Resume Screening
+This YouTube channel [Dan Croitor](https://www.youtube.com/channel/UCw0uQHve23oMWgQcTTpgQsQ/videos) has almost all the material and resources you need for a behavioral round.
 
+You can start with this video - [How to pass a behavioral interview
+](https://www.youtube.com/watch?v=9JhWHRJ3tTE)
+
+Another video you can refer to - [Behavioral Interviews for Software Engineers](https://youtu.be/zIJ1qRCPHUw)
 
 # iOS/Technical Questions
 
@@ -38,15 +42,30 @@ Note: I have only interviewed with a single company as of now. I researched a lo
 
 # Data Structures and Algorithms Questions
 
-- Arrays
-- Linked List
-- Stacks
-- Queues
-- Heaps
-- Hash Tables/Maps
-- Trees
-- Tries
-- Graphs
+## Arrays
+
+- [Overview of Arrays](https://www.youtube.com/watch?v=pmN9ExDf3yQ)
+- [Array - Swift Standard Library](https://developer.apple.com/documentation/swift/array)
+
+## Dictionary
+
+- [Dictionary - Swift Standard Library](https://developer.apple.com/documentation/swift/dictionary)
+
+## Linked List
+- [Introduction to Linked Lists](https://www.youtube.com/watch?v=WwfhLC16bis)
+- [Swift Linked List](https://github.com/raywenderlich/swift-algorithm-club/tree/master/Linked%20List)
+
+## Stacks
+- [Stacks and Generics](https://www.youtube.com/watch?v=RTpUKu9Ph_M)
+
+## Queues
+- [Queue](https://www.raywenderlich.com/848-swift-algorithm-club-swift-queue-data-structure)
+
+## Trees
+- [Tree](https://www.raywenderlich.com/1053-swift-algorithm-club-swift-tree-data-structure)
+
+## Tries
+## Graphs
 
 ## YouTube Channels for LeetCode Solutions and Explanations
 
