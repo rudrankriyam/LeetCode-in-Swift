@@ -83,11 +83,13 @@ LeetCode is the best platform according to me for practicing these type of quest
 
 IF you have less time and an interview coming up, you can buy the subscription for a month, to get access to the solutions.
 
-
 ## Paid Resources [Non-Affliation]
 
-### Cracking the Coding Interview Book
+### [Cracking the Coding Interview Book](http://www.crackingthecodinginterview.com)
+It is a nice book. You can either do the questions from this book or go through LeetCode. One big advantage of this book was the dedicated solution with explanation. And hints to solve a question, just like an interviewer may give you one.
 
-### Raywenderlich Data Structures & Algorithms in Swift Book
+### [Raywenderlich Data Structures & Algorithms in Swift Book](https://store.raywenderlich.com/products/data-structures-and-algorithms-in-swift)
+This is a more comprehensive book with detailed explanation of data structures and algorithms in Swift.
 
-### Raywenderlich Data Structures & Algorithms in Swift Course
+### [Raywenderlich Data Structures & Algorithms in Swift Course](https://www.raywenderlich.com/977854-data-structures-algorithms-in-swift)
+Really nice explanation of the data structures and algorithms in Swift.
