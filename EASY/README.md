@@ -48,6 +48,7 @@
 | [0258 - Add Digits](https://leetcode.com/problems/add-digits)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0258%20-%20Add%20Digits.swift)| - |
 | [0263 - Ugly Number](https://leetcode.com/problems/ugly-number)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0263%20-%20Ugly%20Number.swift)| - |
 | [0268 - Missing Number](https://leetcode.com/problems/missing-number)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0268%20-%20Missing%20Number.swift)| - |
+| [0278 - First Bad Version](https://leetcode.com/problems/first-bad-version/)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0278%20-%First%20Bad%20Version.swift)| - |
 | [0283 - Move Zeroes](https://leetcode.com/problems/move-zeroes)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0283%20-%20Move%20Zeroes.swift)| - |
 | [0290 - Word Pattern](https://leetcode.com/problems/word-pattern)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0290%20-%20Word%20Pattern.swift)| - |
 | [0326 - Power of Three](https://leetcode.com/problems/power-of-three)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0326%20-%20Power%20of%20Three.swift)| - |
