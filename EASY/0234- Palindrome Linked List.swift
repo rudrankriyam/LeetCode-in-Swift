@@ -34,6 +34,7 @@ class Solution {
     
     //The function below is the optimized version of the code above
     //O(1)- Space and O(n)- Time
+    // By [Swapnanil Dhol](https://twitter.com/SwapnanilDhol)
     func isPalindromeOptimized(_ head: ListNode?) -> Bool {
         var previousNode = head
         var nextNode = head

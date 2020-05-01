@@ -11,12 +11,16 @@ LinkedIn - https://www.linkedin.com/in/rudrankriyam/
 
 Inspired by the repository by Yi Gu! [https://github.com/soapyigu/LeetCode-Swift]
 
-# List of Questions (Current Count: 227)
+# List of Questions (Current Count: 228)
 
 * [EASY QUESTIONS (Current Count: 116)](https://github.com/rudrankriyam/LeetCode-in-Swift/tree/master/EASY/README.md)
-* [MEDIUM QUESTIONS (Current Count: 106)](https://github.com/rudrankriyam/LeetCode-in-Swift/tree/master/MEDIUM/README.md)
+* [MEDIUM QUESTIONS (Current Count: 107)](https://github.com/rudrankriyam/LeetCode-in-Swift/tree/master/MEDIUM/README.md)
 * [HARD QUESTIONS (Current Count: 005)](https://github.com/rudrankriyam/LeetCode-in-Swift/tree/master/HARD/README.md)
 
+# Contributors 
+
+* [Rudrank Riyam](https://twitter.com/rudrankriyam)
+* [Swapnanil Dhol](https://twitter.com/SwapnanilDhol)
 
 # This part is work in progress.
 
