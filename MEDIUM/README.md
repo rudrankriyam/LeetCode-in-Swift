@@ -26,7 +26,7 @@
 | [0046 - Permutations](https://leetcode.com/problems/permutations)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/MEDIUM/0046%20-%20Permutations.swift)| - |
 | [0048 - Rotate Image](https://leetcode.com/problems/rotate-image)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/MEDIUM/0048%20-%20Rotate%20Image.swift)| - |
 | [0049 - Group Anagrams](https://leetcode.com/problems/group-anagrams)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/MEDIUM/0049%20-%20Group%20Anagrams.swift)| - |
-| [0050 - Pow(x, n)](https://leetcode.com/problems/powx-n/)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/MEDIUM/0050%20-%20Pow(x, n).swift)| - |
+| [0050 - Pow(x, n)](https://leetcode.com/problems/powx-n/)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/MEDIUM/0050%20-%20Pow(x%2C%20n).swift)| - |
 | [0054 - Spiral Matrix](https://leetcode.com/problems/spiral-matrix)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/MEDIUM/0054%20-%20Spiral%20Matrix.swift)| - |
 | [0055 - Jump Game](https://leetcode.com/problems/jump-game)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/MEDIUM/0055%20-%20Jump%20Game.swift)| - |
 | [0056 - Merge Intervals](https://leetcode.com/problems/merge-intervals)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/MEDIUM/0056%20-%20Merge%20Intervals.swift)| - |
