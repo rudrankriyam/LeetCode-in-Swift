@@ -1,10 +1,8 @@
 # LeetCode in Swift
 My solutions to LeetCode problems written in Swift :grimacing:
- 
 ![Leetcode](./LeetCode-in-Swift.jpg?style=centerme)
 
 ## LeetCode Profile - https://leetcode.com/rudrankriyam/
-
 For any queries or doubt, contact me on -  
 Twitter - https://twitter.com/rudrankriyam  
 LinkedIn - https://www.linkedin.com/in/rudrankriyam/  
@@ -12,25 +10,20 @@ LinkedIn - https://www.linkedin.com/in/rudrankriyam/
 Inspired by the repository by Yi Gu! [https://github.com/soapyigu/LeetCode-Swift]
 
 # List of Questions (Current Count: 228)
-
 * [EASY QUESTIONS (Current Count: 116)](https://github.com/rudrankriyam/LeetCode-in-Swift/tree/master/EASY/README.md)
 * [MEDIUM QUESTIONS (Current Count: 107)](https://github.com/rudrankriyam/LeetCode-in-Swift/tree/master/MEDIUM/README.md)
 * [HARD QUESTIONS (Current Count: 005)](https://github.com/rudrankriyam/LeetCode-in-Swift/tree/master/HARD/README.md)
 
 # Contributors 
-
 * [Rudrank Riyam](https://twitter.com/rudrankriyam)
 * [Swapnanil Dhol](https://twitter.com/SwapnanilDhol)
 
-# This part is work in progress.
-
 # iOS Interview Preparation
-Curating all the resources I refer to for interview preparation. This is not an exhaustive list and you are free to add your suggestion to it. Thank you!
+Curating all the resources **I refer to** for interview preparation. This is **not an exhaustive list** and you are free to add your suggestion to it. Thank you!
 
-Note: I have only interviewed with a single company as of now. I researched a lot about iOS interviews in general, but my views may be biased, and may not be helpful for the dream company you are preparing for.
+*Note: I have only interviewed with a single company as of now. I researched a lot about iOS interviews in general, but my views may be biased, and may not be helpful for the dream company you are preparing for.*
 
 # Behavioral Questions
-
 This YouTube channel [Dan Croitor](https://www.youtube.com/channel/UCw0uQHve23oMWgQcTTpgQsQ/videos) has almost all the material and resources you need for a behavioral round.
 
 You can start with this video - [How to pass a behavioral interview
@@ -47,12 +40,10 @@ Another video you can refer to - [Behavioral Interviews for Software Engineers](
 # Data Structures and Algorithms Questions
 
 ## Arrays
-
 - [Overview of Arrays](https://www.youtube.com/watch?v=pmN9ExDf3yQ)
 - [Array - Swift Standard Library](https://developer.apple.com/documentation/swift/array)
 
 ## Dictionary
-
 - [Dictionary - Swift Standard Library](https://developer.apple.com/documentation/swift/dictionary)
 
 ## Linked List
@@ -66,20 +57,25 @@ Another video you can refer to - [Behavioral Interviews for Software Engineers](
 - [Queue](https://www.raywenderlich.com/848-swift-algorithm-club-swift-queue-data-structure)
 
 ## Trees
+- [Data Structures: Trees](https://youtu.be/oSWTXtMglKE)
 - [Tree](https://www.raywenderlich.com/1053-swift-algorithm-club-swift-tree-data-structure)
 
-## Tries
 ## Graphs
+- [Data structures: Introduction to graphs](https://youtu.be/gXgEDyodOJU)
+- [Graphs with Adjacency List](https://www.raywenderlich.com/773-swift-algorithm-club-graphs-with-adjacency-list)
 
 ## YouTube Channels for LeetCode Solutions and Explanations
-
 - [Nick White](https://www.youtube.com/channel/UC1fLEeYICmo3O9cUsqIi7HA/featured)
 - [Kevin Naughton Jr.](https://www.youtube.com/channel/UCKvwPt6BifPP54yzH99ff1g)
+
+## Mock Coding Interview
+[Pramp](https://www.pramp.com) is a great website to practice live interviews with peers.
+
+I feel knowing how an techinal happens is really important. [abrar's](https://www.youtube.com/channel/UCAjsH3UCJrd-xAfUBsB-dOg/videos?view=0&sort=p&shelf_id=2) videos helped a lot to understand what an interview expects from you in a technical phone screen.
 
 ## Free Resources  [Non-Affliation]
 
 ### Raywenderlich Swift Algorithm Club
-
 It is a public repository that has algortihms and data structures in Swift, with explanations. You can find it here -> [Welcome to the Swift Algorithm Club!](https://github.com/raywenderlich/swift-algorithm-club)
 
 ### LeetCode
