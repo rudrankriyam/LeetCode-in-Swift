@@ -38,6 +38,10 @@ Another video you can refer to - [Behavioral Interviews for Software Engineers](
 - [Brian Voong's Swift Fun Algorithms](https://www.youtube.com/playlist?list=PL0dzCUj1L5JFJlR7dpBfBtEJB84pCZJ3R)
 
 # Data Structures and Algorithms Questions
+For starting out - [What Are Data Structures?](https://youtu.be/bum_19loj9A)
+
+## Playlists 
+- [HackerRank: Data Structures](https://www.youtube.com/playlist?list=PLQbxgIKVVeTMvk1d2IOeRjQScla9Bs0hn)
 
 ## Arrays
 - [Overview of Arrays](https://www.youtube.com/watch?v=pmN9ExDf3yQ)
