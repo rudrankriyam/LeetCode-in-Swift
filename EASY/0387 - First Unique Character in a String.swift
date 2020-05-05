@@ -1,17 +1,16 @@
 class Solution {
     func firstUniqChar(_ s: String) -> Int {
-        var arr = Array(repeating: 0, count: 26)
-        let base = Int(UnicodeScalar("a").value)
-        var index = 0
+        var characterCount = [Int](repeating: 0, count: 26)
+        let firstCharacter = Int(UnicodeScalar("a").value)
+
         for character in s.unicodeScalars {
-            arr[Int(character.value) - base] += 1 
+            characterCount[Int(character.value) - firstCharacter] += 1
         }
-        
-        for val in s.unicodeScalars {
-            if arr[Int(val.value) - base] == 1 {
+
+        for (index, character) in s.unicodeScalars.enumerated() {
+            if characterCount[Int(character.value) - firstCharacter] == 1 {
                 return index
             }
-            index += 1
         }
         return -1
     }
