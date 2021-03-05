@@ -10,11 +10,11 @@ LinkedIn - https://www.linkedin.com/in/rudrankriyam/
 Inspired by the repository by Yi Gu! [https://github.com/soapyigu/LeetCode-Swift]
 
 # List of Questions (Current Count: 228)
-* [EASY QUESTIONS (Current Count: 116)](https://github.com/rudrankriyam/LeetCode-in-Swift/tree/master/EASY/README.md)
+* [EASY QUESTIONS (Current Count: 117)](https://github.com/rudrankriyam/LeetCode-in-Swift/tree/master/EASY/README.md)
 * [MEDIUM QUESTIONS (Current Count: 107)](https://github.com/rudrankriyam/LeetCode-in-Swift/tree/master/MEDIUM/README.md)
 * [HARD QUESTIONS (Current Count: 005)](https://github.com/rudrankriyam/LeetCode-in-Swift/tree/master/HARD/README.md)
 
-# Contributors 
+# Contributors
 * [Rudrank Riyam](https://twitter.com/rudrankriyam)
 * [Swapnanil Dhol](https://twitter.com/SwapnanilDhol)
 
@@ -33,7 +33,7 @@ Another video you can refer to - [Behavioral Interviews for Software Engineers](
 
 # iOS/Technical Questions
 
-## Articles 
+## Articles
 - [50 iOS Interview Questions And Answers](https://link.medium.com/mJGDUMVDZ2)
 - [25 iOS Interview Questions And Answers for Junior Developers](https://link.medium.com/COC901ik35)
 - [iOS Interview Questions](https://www.raywenderlich.com/2616-ios-interview-questions)
@@ -45,7 +45,7 @@ Another video you can refer to - [Behavioral Interviews for Software Engineers](
 # Data Structures and Algorithms Questions
 For starting out - [What Are Data Structures?](https://youtu.be/bum_19loj9A)
 
-## Playlists 
+## Playlists
 - [HackerRank: Data Structures](https://www.youtube.com/playlist?list=PLQbxgIKVVeTMvk1d2IOeRjQScla9Bs0hn)
 
 ## Arrays
@@ -88,7 +88,7 @@ I feel knowing how an techinal happens is really important. [abrar's](https://ww
 It is a public repository that has algortihms and data structures in Swift, with explanations. You can find it here -> [Welcome to the Swift Algorithm Club!](https://github.com/raywenderlich/swift-algorithm-club)
 
 ### LeetCode
-LeetCode is the best platform according to me for practicing these type of questions, especially if you want to code in Swift. The editor supports Swift 5.0.1 and I faced no problem with it. 
+LeetCode is the best platform according to me for practicing these type of questions, especially if you want to code in Swift. The editor supports Swift 5.0.1 and I faced no problem with it.
 
 IF you have less time and an interview coming up, you can buy the subscription for a month, to get access to the solutions.
 
