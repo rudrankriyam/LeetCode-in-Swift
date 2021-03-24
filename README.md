@@ -1,6 +1,6 @@
-# LeetCode in Swift
+![Leetcode in Swift Logo](./LeetCode-in-Swift.jpg?style=centerme)
+
 My solutions to LeetCode problems written in Swift :grimacing:
-![Leetcode](./LeetCode-in-Swift.jpg?style=centerme)
 
 ## LeetCode Profile - https://leetcode.com/rudrankriyam/
 For any queries or doubt, contact me on -  
