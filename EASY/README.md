@@ -120,5 +120,6 @@
 | [1351 - Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/1351%20-%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.swift)| - |
 | [1370 - Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/1370%20-%20Increasing%20Decreasing%20String.swift)| - |
 | [1512 - Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/1512%20-%20Number%20of%20Good%20Pairs.swift)| - |
+| [1528 - Shuffle String](https://leetcode.com/problems/shuffle-string/)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/1528%20-%20Shuffle%20String.swift)| - |
 | [1603 - Design Parking System](https://leetcode.com/problems/design-parking-system/)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/1603%20-%20Design%20Parking%20System.swift)| - |
 | [1672 - Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/1672%20-%20Richest%20Customer%20Wealth.swift)| - |

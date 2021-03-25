@@ -9,8 +9,8 @@ LinkedIn - https://www.linkedin.com/in/rudrankriyam/
 
 Inspired by the repository by Yi Gu! [https://github.com/soapyigu/LeetCode-Swift]
 
-# List of Questions (Current Count: 232)
-* [EASY QUESTIONS (Current Count: 120)](https://github.com/rudrankriyam/LeetCode-in-Swift/tree/master/EASY/README.md)
+# List of Questions (Current Count: 233)
+* [EASY QUESTIONS (Current Count: 121)](https://github.com/rudrankriyam/LeetCode-in-Swift/tree/master/EASY/README.md)
 * [MEDIUM QUESTIONS (Current Count: 107)](https://github.com/rudrankriyam/LeetCode-in-Swift/tree/master/MEDIUM/README.md)
 * [HARD QUESTIONS (Current Count: 005)](https://github.com/rudrankriyam/LeetCode-in-Swift/tree/master/HARD/README.md)
 
