@@ -16,6 +16,7 @@
 | [0038 - Count and Say](https://leetcode.com/problems/count-and-say)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0038%20-%20Count%20and%20Say.swift)| - |
 | [0053 - Maximum Subarray](https://leetcode.com/problems/maximum-subarray)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0053%20-%20Maximum%20Subarray.swift)| - |
 | [0058 - Length of Last Word](https://leetcode.com/problems/length-of-last-word)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0058%20-%20Length%20of%20Last%20Word.swift)| - |
+| [0066 - Plus One](https://leetcode.com/problems/plus-one)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0066%20-%20Plus%20One.swift)| - |
 | [0067 - Add Binary](https://leetcode.com/problems/add-binary)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0067%20-%20Add%20Binary.swift)| - |
 | [0069 - Sqrt(x)](https://leetcode.com/problems/sqrtx)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0069%20-%20Sqrt(x).swift)| - |
 | [0070 - Climbing Stairs](https://leetcode.com/problems/climbing-stairs)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0070%20-%20Climbing%20Stairs.swift)| - |
