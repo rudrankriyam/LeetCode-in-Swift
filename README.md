@@ -22,4 +22,8 @@ Curating all the resources **I refer to** for interview preparation. This is **n
 
 *Note: I have only interviewed with a single company [Apple] as of now. I researched a lot about iOS interviews in general, but my views may be biased, and may not be helpful for the dream company you are preparing for.*
 
-You can find the list here - [iOS Interview Preparation](../blob/master/iOS INTERVIEW PREPARATION.md)
+You can find the list here - [iOS Interview Preparation](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/iOS%20INTERVIEW%20PREPARATION.md)
+
+# Premium Questions
+
+Note - I'm currently not interviewing, so I don't have any incentive to buy the premium subscription. If you want me to cover LeetCode Premium questions, you can sponsor the project. Thanks!
