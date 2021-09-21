@@ -20,6 +20,7 @@
 | [0067 - Add Binary](https://leetcode.com/problems/add-binary)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0067%20-%20Add%20Binary.swift)| - |
 | [0069 - Sqrt(x)](https://leetcode.com/problems/sqrtx)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0069%20-%20Sqrt(x).swift)| - |
 | [0070 - Climbing Stairs](https://leetcode.com/problems/climbing-stairs)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0070%20-%20Climbing%20Stairs.swift)| - |
+| [0083 - Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0070%20-%20Climbing%20Stairs.swift)| - |
 | [0088 - Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0088%20-%20Merge%20Sorted%20Array.swift)| - |
 | [0100 - Same Tree](https://leetcode.com/problems/same-tree)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0100%20-%20Same%20Tree.swift)| - |
 | [0101 - Symmetric Tree](https://leetcode.com/problems/symmetric-tree)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/EASY/0101%20-%20Symmetric%20Tree.swift)| - |
